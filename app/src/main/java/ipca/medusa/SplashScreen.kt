@@ -26,7 +26,6 @@ class SplashScreen : AppCompatActivity() {
         buttonBegin = findViewById(R.id.buttonBegin)
 
         val database = Firebase.database
-        //database = FirebaseDatabase.getInstance()
         val reference = database.getReference("title")
 
         reference.addValueEventListener(object : ValueEventListener{

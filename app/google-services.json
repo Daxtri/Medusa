@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917682374708",
+    "project_id": "medusa-c3c64",
+    "storage_bucket": "medusa-c3c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917682374708:android:1fbe64ce4ba837707d6261",
+        "android_client_info": {
+          "package_name": "ipca.medusa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917682374708-pvl7b8rnik9203sb5vjimf8n44udoqr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNCvc3q-t_8knzYKrLZZ5LjrIBhxd5dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917682374708-pvl7b8rnik9203sb5vjimf8n44udoqr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
